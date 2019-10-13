@@ -220,7 +220,7 @@ footer {
   }
   .home__content {
     padding: 0 0 0 10%;
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 5;
     grid-row: 6;
   }
   .home__content h1 {
@@ -240,7 +240,7 @@ footer {
   }
   .home__social {
     grid-column: 1/1;
-    grid-row: 7/-1;
+    grid-row: 6/-1;
   }
 }
 @media (max-width: 600px) {
